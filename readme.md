@@ -4,14 +4,15 @@
 
 ## Características
 
-- **Reserva de Mesas**: Permite a los clientes reservar mesas en tiempo real.
+- **Gestión de reservas de mesas**: Permite a los clientes reservar mesas y gestionarlas, y al administrador permite llevar un controlor o registro de estas.
 - **Gestión de Horarios**: Administra los horarios de apertura y disponibilidad de mesas.
-- **Notificaciones a Clientes**: Envía confirmaciones y recordatorios a los clientes.
 - **Historial de Reservas**: Mantiene un registro de todas las reservas realizadas.
+- **Gestión de usuarios**: Administra la creación y gestión de usuarios y sus roles dentro del sistema.
+- **Gestión de de solicitudes de los usuarios**: Permite a los usuarios enviar peticiones o mensajes a los administradores.
 
 ## Requisitos Previos
 
-- **Python 3.8+**: Asegúrate de tener Python instalado. Puedes verificarlo con `python --version`.
+- **Python 3.8+**: Asegúrate de tener Python instalado. 
 - **MySQL**: Instala MySQL y phpMyAdmin para la gestión de la base de datos.
 - **FastAPI**: Se recomienda instalar FastAPI y Uvicorn para el servidor ASGI.
 
