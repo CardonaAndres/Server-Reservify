@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+unidecode
+pydantic[email]
+aiomysql
+pyjwt
+bcrypt
