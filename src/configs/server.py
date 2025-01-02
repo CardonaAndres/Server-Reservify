@@ -17,7 +17,7 @@ app.version = '0.0.0.1'
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[CLIENT],  
+    allow_origins=CLIENT,  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
