@@ -6,7 +6,7 @@ PORT = 8000
 
 is_production = False
 
-CLIENT = 'http://localhost:5173'
+CLIENT = 'https://reservify-front.vercel.app/'
 
 db_config = {
     'host' : 'localhost', #dokcer(host.docker.internal) |trabajo en local(localhost)
