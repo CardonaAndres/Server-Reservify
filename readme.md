@@ -55,6 +55,10 @@
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
+## Documentación de los endpoints del proyecto ya desplegado
+
+https://reservify-server-deploy.onrender.com/docs
+
 ---
 
 ## Ejecución con Docker
